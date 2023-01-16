@@ -13,7 +13,7 @@ Criar um formulário de matrícula responsivo pra uma escola fictícia chamada T
 $ git clone git@github.com:pedroygor/projetos-trybe.git
 
 # Entre no diretório
-# cd trybewarts
+$ cd trybewarts
 
 # Abra o arquivo index.html no navegador
 ```
